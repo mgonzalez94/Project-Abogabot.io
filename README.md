@@ -1,4 +1,4 @@
-#Proyecto - Abogabot.io
+ # Proyecto - Abogabot.io
  
  Práctica de LaunchX, proyecto desde la etapa de análisis.
  
@@ -11,5 +11,5 @@
  4. Creación de wireframes UI/UX para front-end.
 
 ### Paleta de colores:
-- ![#d2b454](https://via.placeholder.com/15/f03c15/000000?text=+) `#d2b454`
-- ![#060709](https://via.placeholder.com/15/f03c15/000000?text=+) `#060709`
+- ![#d2b454](https://via.placeholder.com/15/d2b454/000000?text=+) `#d2b454`
+- ![#060709](https://via.placeholder.com/15/060709/000000?text=+) `#060709`
